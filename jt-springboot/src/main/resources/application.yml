@@ -1,0 +1,12 @@
+#语法：  key:空格value  1.注意缩进   2.注意层级
+server:
+  port: 8090
+  servlet:
+    context-path: /
+
+#将数据写入配置文件
+jdbc:
+  username: root用户名
+  password: root密码
+
+    
