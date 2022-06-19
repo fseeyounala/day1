@@ -11,7 +11,7 @@ public class JbController {
         System.out.println("主干添加");
         System.out.println("主干添加");
         System.out.println("主干添加");
-
+        System.out.println("最后一次插入数据");
 
         System.out.println("223232");        System.out.println("223232");
         System.out.println("分支添加");
