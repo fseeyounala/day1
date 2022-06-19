@@ -16,6 +16,11 @@ System.out.println("zai git上最后一次插入数据");
         System.out.println("223232");        System.out.println("223232");
         System.out.println("分支添加");
         System.out.println("验证在git上修改数据");
+        System.out.println("拉去数据");
+        System.out.println("拉去数据");
+        System.out.println("拉去数据");
+        System.out.println("拉去数据");
+
 
     }
 
